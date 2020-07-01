@@ -8,4 +8,4 @@ let newHeader = document.createElement('h1')
 newHeader.setAttribute("id","victory")
 
 let newHeader = document.getElementById('h1#victory');
-header.innerHTML = "Mariel is the champion";
+// header.innerHTML = "Mariel is the champion";
